@@ -1,5 +1,5 @@
-# aplicativo move.it
+# Aplicativo move.it
 
-## NLW4
+### Semana NLW4 - Rocketseat
 
 Aplicativo de atividades baseado em timer pomodoro e gamificação, com uso de React.JS, Next.JS e Typescript.
